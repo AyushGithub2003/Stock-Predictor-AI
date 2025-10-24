@@ -8,11 +8,6 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 **✨ Real-Time Crypto, Currency & Stock Predictions with 8 Stunning Themes 🎲**
-
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
-
-</div>
-
 ---
 
 ## 🎯 Features
