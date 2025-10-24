@@ -1,4 +1,3 @@
-text
 # Stock Predictor Dashboard
 
 <div align="center">
@@ -30,44 +29,13 @@ Responsive design for all devices
 
 ## Quick Start
 
-Clone and install
-git clone https://github.com/yourusername/stock-predictor-dashboard.git
-cd stock-predictor-dashboard
-
-Backend
-cd backend && npm install && npm start
-
-Frontend (new terminal)
-cd frontend && npm install && npm start
-
-text
-
 Visit `http://localhost:3000`
 
 ## Project Structure
 
-stock-predictor-dashboard/
-├── backend/
-│ ├── controllers/
-│ ├── routes/
-│ └── server.js
-└── frontend/
-├── src/
-│ ├── components/
-│ ├── themes/
-│ └── App.js
-└── public/
-
-text
 
 ## API Endpoints
 
-GET /api/crypto/:symbol # Cryptocurrency data
-GET /api/currency/:from/:to # Exchange rates
-GET /api/stocks/:ticker # Stock predictions
-GET /api/history/:type/:symbol # Historical data
-
-text
 
 ## Algorithm
 
@@ -85,6 +53,10 @@ Fork → Branch → Commit → Push → Pull Request
 
 We welcome contributions of all kinds.
 
+## License
+
+MIT License - see [LICENSE](LICENSE) file
+
 ---
 
 <div align="center">
@@ -94,3 +66,5 @@ We welcome contributions of all kinds.
 Made with care by [Your Name]
 
 </div>
+
+
